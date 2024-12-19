@@ -1,0 +1,7 @@
+||click.*
+||clicks.*
+||link.*
+||links.*
+||email.*
+||t.*
+||tracking.*
