@@ -51,6 +51,7 @@
 ||r.brvmail.bandainamcoent.eu^
 ||r.superhuman.com^
 ||s-links.producthunt.com^
+||s.click.aliexpress.com^
 ||signaldomn.online^
 ||spmailtechnol.com^
 ||t-trg.email.adobe.com^
