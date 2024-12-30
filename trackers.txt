@@ -21,6 +21,7 @@
 ||clicks.makerscentral.co.uk^
 ||clicks.mlsend.com^
 ||clicks.moneyboxapp.com^
+||clicks.monzo.com^
 ||clicks.rightmove.co.uk^
 ||clicks.sroaudiences.com^
 ||close.io^
