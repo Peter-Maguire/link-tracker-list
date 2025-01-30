@@ -68,3 +68,4 @@
 ||tracking.skyticketit.com^
 ||via.intercom-mail-.com^
 ||mail.ncmauctions.co.uk^
+||wl.spotify.com^
