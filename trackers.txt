@@ -4,6 +4,7 @@
 ||awstrack.me^
 ||bl-1.com^
 ||cdn.exponea.com^
+||cdn.eu1.exponea.com^
 ||click.auvik.com^
 ||click.comms.nectar.com^
 ||click.eg.hotels.com^
@@ -12,6 +13,7 @@
 ||click.email.vimeo.com^
 ||click.emails.asda.com^
 ||click.mail.bidspotter.co.uk^
+||click.mailchimp.com^
 ||click.octopus.energy^
 ||click.redditmail.com^
 ||clicks.aweber.com^
@@ -46,7 +48,7 @@
 ||links.lovehoney.co.uk^
 ||links.redbubble.com^
 ||list-manage.com^
-||list-manage.com^
+||mailchi.mp^
 ||message.contentfulmail.com^
 ||outrch.com^
 ||r.brvmail.bandainamcoent.eu^
@@ -73,3 +75,14 @@
 ||fastmailerwizz.com^
 ||email.clearscore.com^
 ||click.email.wbgames.com^
+||rs6.net^
+||comms.trainline.com^
+||click.email.pokemon.com^
+||sendibm2.com^
+||sendibm3.com^
+||click.pstmrk.it^
+||ablink.info.wise.com^
+||mail-link.genius.com^
+||notifications.google.com^
+||lnk.ie^
+||url3396.theinformation.com^
