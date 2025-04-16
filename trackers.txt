@@ -71,3 +71,5 @@
 ||wl.spotify.com^
 ||cmail20.com^
 ||fastmailerwizz.com^
+||email.clearscore.com^
+||click.email.wbgames.com^
