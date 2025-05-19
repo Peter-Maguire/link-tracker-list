@@ -43,6 +43,7 @@
 ||ctrk.klclick.com^
 ||ctrk.klclick1.com^
 ||ctrk.klclick2.com^
+||dhlecommerce.co.uk^
 ||e.dhgate.com^
 ||e.wordfly.com^
 ||em.todoist.net^
