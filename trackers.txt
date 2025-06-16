@@ -104,3 +104,4 @@
 ||url3396.theinformation.com^
 ||via.intercom-mail-.com^
 ||wl.spotify.com^
+||intercom-clicks.com^
