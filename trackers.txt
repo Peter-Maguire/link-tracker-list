@@ -105,3 +105,4 @@
 ||via.intercom-mail-.com^
 ||wl.spotify.com^
 ||intercom-clicks.com^
+||spgo.io^
