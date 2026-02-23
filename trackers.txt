@@ -78,6 +78,7 @@
 ||marketing.1password.co^
 ||message.contentfulmail.com^
 ||mkt.1password.co^
+||mjt.lu^
 ||newslink.railway.app^
 ||notifications.google.com^
 ||outrch.com^
