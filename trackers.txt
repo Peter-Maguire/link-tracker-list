@@ -1,4 +1,3 @@
-
 ||ablink.info.wise.com^
 ||acemlnb.com^
 ||airshipemail.co.uk^
@@ -6,6 +5,7 @@
 ||as-list9.com^
 ||awstrack.me^
 ||bl-1.com^
+||c.easyfundraising.com^
 ||ca.engagingnetworks.app^
 ||cdn.eu1.exponea.com^
 ||cdn.exponea.com^
@@ -21,6 +21,7 @@
 ||click.emails.asda.com^
 ||click.emails.barclaycard.co.uk^
 ||click.mail.bidspotter.co.uk^
+||click.mail.milkwaukeetool.eu^
 ||click.mailchimp.com^
 ||click.octopus.energy^
 ||click.pstmrk.it^
@@ -51,18 +52,23 @@
 ||email.circleci.com^
 ||email.clearscore.com^
 ||email.gitbook.com^
+||email.mail.electroverse.com^
 ||email.mixmax.com^
 ||email.octopusmoney.com^
 ||email.onthatass.com^
 ||email.stripe.com^
+||email2.servicetitan.com^
 ||emea.dcv.ms^
 ||emltrk.com^
 ||enews.freeprintsapp.com^
 ||fastmailerwizz.com^
+||image.zxzmail.com^
+||intercom-clicks.com^
 ||l.hello.unscreen.com^
 ||link.codecov.io^
 ||link.dji.com^
 ||link.international.evri.com^
+||link.mail.revolutionrace.com^
 ||link.t.upwork.com^
 ||link.trustpilot.com^
 ||links.flickr.com^
@@ -77,10 +83,11 @@
 ||mandrillapp.com^
 ||marketing.1password.co^
 ||message.contentfulmail.com^
-||mkt.1password.co^
 ||mjt.lu^
+||mkt.1password.co^
 ||newslink.railway.app^
 ||notifications.google.com^
+||notifications.googleapis.com^
 ||outrch.com^
 ||r.brvmail.bandainamcoent.eu^
 ||r.superhuman.com^
@@ -90,6 +97,7 @@
 ||sendibm2.com^
 ||sendibm3.com^
 ||signaldomn.online^
+||spgo.io^
 ||spmailtechnol.com^
 ||t-trg.email.adobe.com^
 ||t.mailpgn.com^
@@ -98,6 +106,7 @@
 ||t.signauxtrois.com^
 ||t.yesware.com^
 ||tcgms.net^
+||tlinks.nordvpn.com^
 ||toutapp.com^
 ||track.mixmax.com^
 ||tracking.cirrusinsight.com^
@@ -105,5 +114,3 @@
 ||url3396.theinformation.com^
 ||via.intercom-mail-.com^
 ||wl.spotify.com^
-||intercom-clicks.com^
-||spgo.io^
