@@ -1,4 +1,5 @@
 ||ablink.info.wise.com^
+||ablinks.udemybusiness.udemy.com^
 ||acemlnb.com^
 ||airshipemail.co.uk^
 ||app.blackbaud.net^
@@ -12,6 +13,7 @@
 ||cdn.uk.exponea.com^
 ||click.auvik.com^
 ||click.comms.nectar.com^
+||click.e.atlassian.com^
 ||click.eg.hotels.com^
 ||click.em.cityexperiences.com^
 ||click.email.dunelm.com^
@@ -28,6 +30,7 @@
 ||click.redditmail.com^
 ||clicks.aweber.com^
 ||clicks.checkatrade.com^
+||clicks.contact.hl.co.uk^
 ||clicks.diy.com^
 ||clicks.emails.sainsburys.co.uk^
 ||clicks.makerscentral.co.uk^
@@ -89,6 +92,7 @@
 ||notifications.google.com^
 ||notifications.googleapis.com^
 ||outrch.com^
+||protection.outlook.com^
 ||r.brvmail.bandainamcoent.eu^
 ||r.superhuman.com^
 ||rs6.net^
