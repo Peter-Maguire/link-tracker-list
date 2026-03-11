@@ -3,5 +3,9 @@
 ||link.*
 ||links.*
 ||email.*
+||mail.*
 ||t.*
+||e.*
 ||tracking.*
+||ablinks.*
+||ablink.*
